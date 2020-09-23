@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nuevo"
+        android:icon="@drawable/baseline_create_new_folder_black_24dp"
+        android:title="Nuevo" />
+    <item
+        android:id="@+id/listitem"
+        android:icon="@drawable/baseline_view_list_black_24dp"
+        android:title="Lista" />
+</menu>
